@@ -1,0 +1,3 @@
+put the asmjit source folder in here
+
+or don't, just make sure to comment out all the code that requires asmjit
